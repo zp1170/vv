@@ -1,0 +1,67 @@
+body{padding:0;margin:0}
+.bt{
+	width: 100%;
+	height: 1.7rem;
+	background: red;
+	float: left;
+}
+/* .fh{
+	width: 0.48rem;
+	height: 0.48rem;
+
+ */
+/* } */
+.cgdbp{
+	font-size: 0.6rem;
+	font-family: 微软雅黑;
+	color: rgba(0, 0, 0, 0.8);
+	font-weight: bold;
+	line-height: 1.32rem;
+}
+.fhh{
+	width: 0.48rem;
+	height: 0.48rem;
+	background: blue;
+	margin-top: 0.24rem;
+	margin-left: 0.24rem;
+}
+.zh{
+	width: 3rem;
+	height:1.32rem;
+	background: #6461f5;
+	margin-left: 0.24rem;
+}
+.geren{
+	width: 100%;
+	height: 1.7rem;
+	background: #e94863;
+}
+.la4{
+	width: 100%;
+	height: 1.7rem;
+	background: #e94863;
+	margin-top: 0.72rem;
+}
+.gr{
+	width: 2.33rem;
+	height: 1.56rem;
+	margin-left: 0.24rem;
+}
+.ml{
+	width: 1.95rem;
+	height: 0.9rem;
+		float: right;
+}
+.mlh{
+	width: 2rem;
+	height: 0.7rem;
+	float: right;
+	margin-top: 0.5rem;
+	margin-right: 0.12rem;
+}
+.zi{
+	font-size: 0.22rem;
+	font-weight: bold;
+	color: #000;
+
+}
